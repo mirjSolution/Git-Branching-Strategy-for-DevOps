@@ -70,7 +70,7 @@ To reflect a locally created branch on the remote repository, you must push it.
 
 Here in my sample i will update the README.md file then push it to my repo.
 
-![Create Switch Locally](Images/createswitchlocal.png)
+![Push branch locally](Images/pushbranchlocal.gif)
 
 ```bash
 vim README.md
