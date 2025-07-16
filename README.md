@@ -107,7 +107,7 @@ Some teams use a `develop` branch as an intermediate integration branch before p
 
 ---
 
-> Keep your Git history clean. Branch smart. Merge responsibly.
+> Keep your Git history clean. Branch smart.
 
 🧑‍💻 _Created by Rico John Dato-on_
 🔗 [LinkedIn](https://www.linkedin.com/in/rico-john-dato-on) • [Portfolio](https://ricodatoon.netlify.app)
